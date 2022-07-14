@@ -25,6 +25,7 @@ var storage = multer.diskStorage({
   },
   filename: function (req, file, cb) {
     fileNameTOExecute = file.fieldname + "-" + Date.now() + ".sol";
+    console.log("fileNameTOExecute: " + fileNameTOExecute);
     cb(null, file.fieldname + "-" + Date.now() + ".sol");
   },
 });
