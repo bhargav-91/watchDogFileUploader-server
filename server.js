@@ -3,6 +3,9 @@ const { exec } = require("child_process");
 const path = require("path");
 const multer = require("multer");
 const app = express();
+const cors = require("cors");
+
+app.use(cors());
 
 // View Engine Setup
 app.set("views", path.join(__dirname, "views"));
@@ -10,13 +13,18 @@ app.set("view engine", "ejs");
 
 // var upload = multer({ dest: "Upload_folder_name" })
 // If you do not want to use diskStorage then uncomment it
+var fileNameTOExecute = "";
 
 var storage = multer.diskStorage({
   destination: function (req, file, cb) {
     // Uploads is the Upload_folder_name
-    cb(null, "/Users/bhargj/worksapce/SG-Hackverse/uploads");
+    cb(
+      null,
+      "/Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files"
+    );
   },
   filename: function (req, file, cb) {
+    fileNameTOExecute = file.fieldname + "-" + Date.now() + ".sol";
     cb(null, file.fieldname + "-" + Date.now() + ".sol");
   },
 });
@@ -49,7 +57,8 @@ app.post("/upload", function (req, res, next) {
       // SUCCESS, image successfully uploaded
 
       exec(
-        "python3 zion_scan.py --contract solidity_files/Greeting.sol",
+        "python3 /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/zion_scan.py --contract /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/" +
+          fileNameTOExecute,
         (error, stdout, stderr) => {
           if (error) {
             console.log(`error: ${error.message}`);

@@ -1,0 +1,1928 @@
+07/14/2022 09:21:23 PM INFO: detector: Backdoor. .
+07/14/2022 09:21:58 PM INFO: detector: Backdoor. .
+07/14/2022 09:23:11 PM INFO: detector: Backdoor. .
+07/14/2022 09:23:38 PM INFO: detector: Backdoor. .
+07/14/2022 09:23:38 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:38 PM INFO: detector: UninitializedStateVarsDetection. .
+07/14/2022 09:23:38 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:38 PM INFO: detector: UninitializedStorageVars. .
+07/14/2022 09:23:38 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:38 PM INFO: detector: UninitializedLocalVars. .
+07/14/2022 09:23:38 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:38 PM INFO: detector: ConstantPragma. .
+07/14/2022 09:23:38 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:38 PM INFO: detector: IncorrectSolc. .
+07/14/2022 09:23:38 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:38 PM INFO: [92m
+Pragma version^0.8.0 (../bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol#1) allows old versions
+solc-0.8.15 is not recommended for deployment
+Reference: https://github.com/crytic/slither/wiki/Detector-Documentation#incorrect-versions-of-solidity[0m
+07/14/2022 09:23:38 PM INFO: detector: LockedEther. .
+07/14/2022 09:23:38 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:38 PM INFO: detector: ArbitrarySend. .
+07/14/2022 09:23:38 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:38 PM INFO: detector: Suicidal. .
+07/14/2022 09:23:38 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:38 PM INFO: detector: ReentrancyBenign. .
+07/14/2022 09:23:38 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:38 PM INFO: detector: ReentrancyReadBeforeWritten. .
+07/14/2022 09:23:38 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:38 PM INFO: detector: ReentrancyEth. .
+07/14/2022 09:23:39 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:39 PM INFO: detector: ReentrancyNoGas. .
+07/14/2022 09:23:39 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:39 PM INFO: detector: ReentrancyEvent. .
+07/14/2022 09:23:39 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:39 PM INFO: detector: UnusedStateVars. .
+07/14/2022 09:23:39 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:39 PM INFO: detector: ConstCandidateStateVars. .
+07/14/2022 09:23:39 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:39 PM INFO: detector: TxOrigin. .
+07/14/2022 09:23:39 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:39 PM INFO: detector: Assembly. .
+07/14/2022 09:23:39 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:39 PM INFO: detector: LowLevelCalls. .
+07/14/2022 09:23:39 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:39 PM INFO: detector: UnusedReturnValues. .
+07/14/2022 09:23:39 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:39 PM INFO: detector: UncheckedTransfer. .
+07/14/2022 09:23:39 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:39 PM INFO: detector: NamingConvention. .
+07/14/2022 09:23:39 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:39 PM INFO: [92m
+Function Greeting.Construcor() (../bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol#6-9) is not in mixedCase
+Parameter Greeting.setGreetings(string)._message (../bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol#11) is not in mixedCase
+Contract booking (../bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol#21-34) is not in CapWords
+Function booking.Construcor() (../bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol#23-26) is not in mixedCase
+Parameter booking.setBooking(string)._mess (../bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol#27) is not in mixedCase
+Reference: https://github.com/crytic/slither/wiki/Detector-Documentation#conformance-to-solidity-naming-conventions[0m
+07/14/2022 09:23:39 PM INFO: detector: ExternalFunction. .
+07/14/2022 09:23:39 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:39 PM INFO: [92m
+Construcor() should be declared external:
+	- Greeting.Construcor() (../bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol#6-9)
+setGreetings(string) should be declared external:
+	- Greeting.setGreetings(string) (../bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol#11-13)
+getGreetings() should be declared external:
+	- Greeting.getGreetings() (../bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol#15-17)
+Construcor() should be declared external:
+	- booking.Construcor() (../bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol#23-26)
+setBooking(string) should be declared external:
+	- booking.setBooking(string) (../bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol#27-29)
+getBooking() should be declared external:
+	- booking.getBooking() (../bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol#31-33)
+Reference: https://github.com/crytic/slither/wiki/Detector-Documentation#public-function-that-could-be-declared-external[0m
+07/14/2022 09:23:39 PM INFO: detector: ControlledDelegateCall. .
+07/14/2022 09:23:39 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:39 PM INFO: detector: ConstantFunctionsAsm. .
+07/14/2022 09:23:39 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:39 PM INFO: detector: ConstantFunctionsState. .
+07/14/2022 09:23:39 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:39 PM INFO: detector: ShadowingAbstractDetection. .
+07/14/2022 09:23:39 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:39 PM INFO: detector: StateShadowing. .
+07/14/2022 09:23:40 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:40 PM INFO: detector: LocalShadowing. .
+07/14/2022 09:23:40 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:40 PM INFO: detector: BuiltinSymbolShadowing. .
+07/14/2022 09:23:40 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:40 PM INFO: detector: Timestamp. .
+07/14/2022 09:23:40 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:40 PM INFO: detector: MultipleCallsInLoop. .
+07/14/2022 09:23:40 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:40 PM INFO: detector: IncorrectStrictEquality. .
+07/14/2022 09:23:40 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:40 PM INFO: detector: IncorrectERC20InterfaceDetection. .
+07/14/2022 09:23:40 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:40 PM INFO: detector: IncorrectERC721InterfaceDetection. .
+07/14/2022 09:23:40 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:40 PM INFO: detector: UnindexedERC20EventParameters. .
+07/14/2022 09:23:40 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:40 PM INFO: detector: DeprecatedStandards. .
+07/14/2022 09:23:40 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:40 PM INFO: detector: RightToLeftOverride. .
+07/14/2022 09:23:40 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:40 PM INFO: detector: TooManyDigits. .
+07/14/2022 09:23:40 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:40 PM INFO: detector: UncheckedLowLevel. .
+07/14/2022 09:23:40 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:40 PM INFO: detector: UncheckedSend. .
+07/14/2022 09:23:40 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:40 PM INFO: detector: VoidConstructor. .
+07/14/2022 09:23:40 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:40 PM INFO: detector: TypeBasedTautology. .
+07/14/2022 09:23:41 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:41 PM INFO: detector: BooleanEquality. .
+07/14/2022 09:23:41 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:41 PM INFO: detector: BooleanConstantMisuse. .
+07/14/2022 09:23:41 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:41 PM INFO: detector: DivideBeforeMultiply. .
+07/14/2022 09:23:41 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:41 PM INFO: detector: UnprotectedUpgradeable. .
+07/14/2022 09:23:41 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:41 PM INFO: detector: NameReused. .
+07/14/2022 09:23:41 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:41 PM INFO: detector: UnimplementedFunctionDetection. .
+07/14/2022 09:23:41 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:41 PM INFO: detector: MappingDeletionDetection. .
+07/14/2022 09:23:41 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:41 PM INFO: detector: ArrayLengthAssignment. .
+07/14/2022 09:23:41 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:41 PM INFO: detector: SimilarVarsDetection. .
+07/14/2022 09:23:41 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:41 PM INFO: detector: FunctionInitializedState. .
+07/14/2022 09:23:41 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:41 PM INFO: detector: RedundantStatements. .
+07/14/2022 09:23:41 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:41 PM INFO: detector: BadPRNG. .
+07/14/2022 09:23:41 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:41 PM INFO: detector: CostlyOperationsInLoop. .
+07/14/2022 09:23:41 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:41 PM INFO: detector: AssertStateChange. .
+07/14/2022 09:23:41 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:41 PM INFO: detector: MissingInheritance. .
+07/14/2022 09:23:42 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:42 PM INFO: detector: ShiftParameterMixup. .
+07/14/2022 09:23:42 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:42 PM INFO: detector: StorageSignedIntegerArray. .
+07/14/2022 09:23:42 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:42 PM INFO: detector: UninitializedFunctionPtrsConstructor. .
+07/14/2022 09:23:42 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:42 PM INFO: detector: ABIEncoderV2Array. .
+07/14/2022 09:23:42 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:42 PM INFO: detector: ArrayByReference. .
+07/14/2022 09:23:42 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:42 PM INFO: detector: EnumConversion. .
+07/14/2022 09:23:42 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:42 PM INFO: detector: MultipleConstructorSchemes. .
+07/14/2022 09:23:42 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:42 PM INFO: detector: PublicMappingNested. .
+07/14/2022 09:23:42 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:42 PM INFO: detector: ReusedBaseConstructor. .
+07/14/2022 09:23:42 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:42 PM INFO: detector: MissingEventsAccessControl. .
+07/14/2022 09:23:42 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:42 PM INFO: detector: MissingEventsArithmetic. .
+07/14/2022 09:23:42 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:42 PM INFO: detector: ModifierDefaultDetection. .
+07/14/2022 09:23:42 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:42 PM INFO: detector: PredeclarationUsageLocal. .
+07/14/2022 09:23:42 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:42 PM INFO: detector: IncorrectUnaryExpressionDetection. .
+07/14/2022 09:23:42 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:42 PM INFO: detector: MissingZeroAddressValidation. .
+07/14/2022 09:23:42 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:42 PM INFO: detector: DeadCode. .
+07/14/2022 09:23:43 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:43 PM INFO: detector: WriteAfterWrite. .
+07/14/2022 09:23:43 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:43 PM INFO: detector: MsgValueInLoop. .
+07/14/2022 09:23:43 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:43 PM INFO: detector: DelegatecallInLoop. .
+07/14/2022 09:23:43 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814017779.sol
+
+
+07/14/2022 09:23:43 PM INFO: Analysis Completed. .
+07/14/2022 09:23:43 PM INFO: --------------------------------------------------------------------------------
+07/14/2022 09:25:08 PM INFO: detector: Backdoor. .
+07/14/2022 09:25:08 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814107896.sol:
+Error: Source file requires different compiler version (current compiler is 0.8.15+commit.e14f2714.Darwin.appleclang) - note that nightly builds are considered to be strictly less than the released version
+ --> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814107896.sol:1:1:
+  |
+1 | pragma solidity ^0.5.6;
+  | ^^^^^^^^^^^^^^^^^^^^^^^
+
+
+07/14/2022 09:28:01 PM INFO: detector: Backdoor. .
+07/14/2022 09:28:01 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:01 PM INFO: detector: UninitializedStateVarsDetection. .
+07/14/2022 09:28:01 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:01 PM INFO: detector: UninitializedStorageVars. .
+07/14/2022 09:28:01 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:01 PM INFO: detector: UninitializedLocalVars. .
+07/14/2022 09:28:01 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:01 PM INFO: detector: ConstantPragma. .
+07/14/2022 09:28:01 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:01 PM INFO: detector: IncorrectSolc. .
+07/14/2022 09:28:01 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:01 PM INFO: [92m
+Pragma version^0.8.0 (../bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol#1) allows old versions
+solc-0.8.15 is not recommended for deployment
+Reference: https://github.com/crytic/slither/wiki/Detector-Documentation#incorrect-versions-of-solidity[0m
+07/14/2022 09:28:01 PM INFO: detector: LockedEther. .
+07/14/2022 09:28:01 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:01 PM INFO: detector: ArbitrarySend. .
+07/14/2022 09:28:01 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:01 PM INFO: detector: Suicidal. .
+07/14/2022 09:28:02 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:02 PM INFO: detector: ReentrancyBenign. .
+07/14/2022 09:28:02 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:02 PM INFO: detector: ReentrancyReadBeforeWritten. .
+07/14/2022 09:28:02 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:02 PM INFO: detector: ReentrancyEth. .
+07/14/2022 09:28:02 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:02 PM INFO: detector: ReentrancyNoGas. .
+07/14/2022 09:28:02 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:02 PM INFO: detector: ReentrancyEvent. .
+07/14/2022 09:28:02 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:02 PM INFO: detector: UnusedStateVars. .
+07/14/2022 09:28:02 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:02 PM INFO: detector: ConstCandidateStateVars. .
+07/14/2022 09:28:02 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:02 PM INFO: detector: TxOrigin. .
+07/14/2022 09:28:02 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:02 PM INFO: detector: Assembly. .
+07/14/2022 09:28:02 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:02 PM INFO: detector: LowLevelCalls. .
+07/14/2022 09:28:02 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:02 PM INFO: detector: UnusedReturnValues. .
+07/14/2022 09:28:02 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:02 PM INFO: detector: UncheckedTransfer. .
+07/14/2022 09:28:02 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:02 PM INFO: detector: NamingConvention. .
+07/14/2022 09:28:02 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:02 PM INFO: [92m
+Function Greeting.Construcor() (../bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol#6-9) is not in mixedCase
+Parameter Greeting.setGreetings(string)._message (../bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol#11) is not in mixedCase
+Contract booking (../bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol#21-34) is not in CapWords
+Function booking.Construcor() (../bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol#23-26) is not in mixedCase
+Parameter booking.setBooking(string)._mess (../bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol#27) is not in mixedCase
+Reference: https://github.com/crytic/slither/wiki/Detector-Documentation#conformance-to-solidity-naming-conventions[0m
+07/14/2022 09:28:02 PM INFO: detector: ExternalFunction. .
+07/14/2022 09:28:02 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:02 PM INFO: [92m
+Construcor() should be declared external:
+	- Greeting.Construcor() (../bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol#6-9)
+setGreetings(string) should be declared external:
+	- Greeting.setGreetings(string) (../bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol#11-13)
+getGreetings() should be declared external:
+	- Greeting.getGreetings() (../bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol#15-17)
+Construcor() should be declared external:
+	- booking.Construcor() (../bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol#23-26)
+setBooking(string) should be declared external:
+	- booking.setBooking(string) (../bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol#27-29)
+getBooking() should be declared external:
+	- booking.getBooking() (../bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol#31-33)
+Reference: https://github.com/crytic/slither/wiki/Detector-Documentation#public-function-that-could-be-declared-external[0m
+07/14/2022 09:28:02 PM INFO: detector: ControlledDelegateCall. .
+07/14/2022 09:28:02 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:02 PM INFO: detector: ConstantFunctionsAsm. .
+07/14/2022 09:28:02 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:02 PM INFO: detector: ConstantFunctionsState. .
+07/14/2022 09:28:03 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:03 PM INFO: detector: ShadowingAbstractDetection. .
+07/14/2022 09:28:03 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:03 PM INFO: detector: StateShadowing. .
+07/14/2022 09:28:03 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:03 PM INFO: detector: LocalShadowing. .
+07/14/2022 09:28:03 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:03 PM INFO: detector: BuiltinSymbolShadowing. .
+07/14/2022 09:28:03 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:03 PM INFO: detector: Timestamp. .
+07/14/2022 09:28:03 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:03 PM INFO: detector: MultipleCallsInLoop. .
+07/14/2022 09:28:03 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:03 PM INFO: detector: IncorrectStrictEquality. .
+07/14/2022 09:28:03 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:03 PM INFO: detector: IncorrectERC20InterfaceDetection. .
+07/14/2022 09:28:03 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:03 PM INFO: detector: IncorrectERC721InterfaceDetection. .
+07/14/2022 09:28:03 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:03 PM INFO: detector: UnindexedERC20EventParameters. .
+07/14/2022 09:28:03 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:03 PM INFO: detector: DeprecatedStandards. .
+07/14/2022 09:28:03 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:03 PM INFO: detector: RightToLeftOverride. .
+07/14/2022 09:28:03 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:03 PM INFO: detector: TooManyDigits. .
+07/14/2022 09:28:03 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:03 PM INFO: detector: UncheckedLowLevel. .
+07/14/2022 09:28:03 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:03 PM INFO: detector: UncheckedSend. .
+07/14/2022 09:28:03 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:03 PM INFO: detector: VoidConstructor. .
+07/14/2022 09:28:04 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:04 PM INFO: detector: TypeBasedTautology. .
+07/14/2022 09:28:04 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:04 PM INFO: detector: BooleanEquality. .
+07/14/2022 09:28:04 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:04 PM INFO: detector: BooleanConstantMisuse. .
+07/14/2022 09:28:04 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:04 PM INFO: detector: DivideBeforeMultiply. .
+07/14/2022 09:28:04 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:04 PM INFO: detector: UnprotectedUpgradeable. .
+07/14/2022 09:28:04 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:04 PM INFO: detector: NameReused. .
+07/14/2022 09:28:04 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:04 PM INFO: detector: UnimplementedFunctionDetection. .
+07/14/2022 09:28:04 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:04 PM INFO: detector: MappingDeletionDetection. .
+07/14/2022 09:28:04 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:04 PM INFO: detector: ArrayLengthAssignment. .
+07/14/2022 09:28:04 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:04 PM INFO: detector: SimilarVarsDetection. .
+07/14/2022 09:28:04 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:04 PM INFO: detector: FunctionInitializedState. .
+07/14/2022 09:28:04 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:04 PM INFO: detector: RedundantStatements. .
+07/14/2022 09:28:04 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:04 PM INFO: detector: BadPRNG. .
+07/14/2022 09:28:04 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:04 PM INFO: detector: CostlyOperationsInLoop. .
+07/14/2022 09:28:04 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:04 PM INFO: detector: AssertStateChange. .
+07/14/2022 09:28:04 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:04 PM INFO: detector: MissingInheritance. .
+07/14/2022 09:28:04 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:04 PM INFO: detector: ShiftParameterMixup. .
+07/14/2022 09:28:05 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:05 PM INFO: detector: StorageSignedIntegerArray. .
+07/14/2022 09:28:05 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:05 PM INFO: detector: UninitializedFunctionPtrsConstructor. .
+07/14/2022 09:28:05 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:05 PM INFO: detector: ABIEncoderV2Array. .
+07/14/2022 09:28:05 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:05 PM INFO: detector: ArrayByReference. .
+07/14/2022 09:28:05 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:05 PM INFO: detector: EnumConversion. .
+07/14/2022 09:28:05 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:05 PM INFO: detector: MultipleConstructorSchemes. .
+07/14/2022 09:28:05 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:05 PM INFO: detector: PublicMappingNested. .
+07/14/2022 09:28:05 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:05 PM INFO: detector: ReusedBaseConstructor. .
+07/14/2022 09:28:05 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:05 PM INFO: detector: MissingEventsAccessControl. .
+07/14/2022 09:28:05 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:05 PM INFO: detector: MissingEventsArithmetic. .
+07/14/2022 09:28:05 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:05 PM INFO: detector: ModifierDefaultDetection. .
+07/14/2022 09:28:05 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:05 PM INFO: detector: PredeclarationUsageLocal. .
+07/14/2022 09:28:05 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:05 PM INFO: detector: IncorrectUnaryExpressionDetection. .
+07/14/2022 09:28:05 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:05 PM INFO: detector: MissingZeroAddressValidation. .
+07/14/2022 09:28:05 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:05 PM INFO: detector: DeadCode. .
+07/14/2022 09:28:05 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:05 PM INFO: detector: WriteAfterWrite. .
+07/14/2022 09:28:06 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:06 PM INFO: detector: MsgValueInLoop. .
+07/14/2022 09:28:06 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:06 PM INFO: detector: DelegatecallInLoop. .
+07/14/2022 09:28:06 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814280901.sol
+
+
+07/14/2022 09:28:06 PM INFO: Analysis Completed. .
+07/14/2022 09:28:06 PM INFO: --------------------------------------------------------------------------------
+07/14/2022 09:35:19 PM INFO: detector: Backdoor. .
+07/14/2022 09:35:19 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:19 PM INFO: detector: UninitializedStateVarsDetection. .
+07/14/2022 09:35:19 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:19 PM INFO: detector: UninitializedStorageVars. .
+07/14/2022 09:35:20 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:20 PM INFO: detector: UninitializedLocalVars. .
+07/14/2022 09:35:20 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:20 PM INFO: detector: ConstantPragma. .
+07/14/2022 09:35:20 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:20 PM INFO: detector: IncorrectSolc. .
+07/14/2022 09:35:20 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:20 PM INFO: [92m
+Pragma version^0.8.0 (../bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol#2) allows old versions
+Pragma version^0.8.0 (../bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol#9) allows old versions
+solc-0.8.15 is not recommended for deployment
+Reference: https://github.com/crytic/slither/wiki/Detector-Documentation#incorrect-versions-of-solidity[0m
+07/14/2022 09:35:20 PM INFO: detector: LockedEther. .
+07/14/2022 09:35:20 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:20 PM INFO: detector: ArbitrarySend. .
+07/14/2022 09:35:20 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:20 PM INFO: detector: Suicidal. .
+07/14/2022 09:35:20 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:20 PM INFO: detector: ReentrancyBenign. .
+07/14/2022 09:35:20 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:20 PM INFO: detector: ReentrancyReadBeforeWritten. .
+07/14/2022 09:35:20 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:20 PM INFO: detector: ReentrancyEth. .
+07/14/2022 09:35:20 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:20 PM INFO: detector: ReentrancyNoGas. .
+07/14/2022 09:35:20 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:20 PM INFO: detector: ReentrancyEvent. .
+07/14/2022 09:35:20 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:20 PM INFO: detector: UnusedStateVars. .
+07/14/2022 09:35:20 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:20 PM INFO: detector: ConstCandidateStateVars. .
+07/14/2022 09:35:20 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:20 PM INFO: detector: TxOrigin. .
+07/14/2022 09:35:20 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:20 PM INFO: detector: Assembly. .
+07/14/2022 09:35:20 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:20 PM INFO: detector: LowLevelCalls. .
+07/14/2022 09:35:20 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:20 PM INFO: detector: UnusedReturnValues. .
+07/14/2022 09:35:20 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:20 PM INFO: detector: UncheckedTransfer. .
+07/14/2022 09:35:20 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:20 PM INFO: detector: NamingConvention. .
+07/14/2022 09:35:20 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:20 PM INFO: detector: ExternalFunction. .
+07/14/2022 09:35:20 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:21 PM INFO: detector: ControlledDelegateCall. .
+07/14/2022 09:35:21 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:21 PM INFO: detector: ConstantFunctionsAsm. .
+07/14/2022 09:35:21 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:21 PM INFO: detector: ConstantFunctionsState. .
+07/14/2022 09:35:21 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:21 PM INFO: detector: ShadowingAbstractDetection. .
+07/14/2022 09:35:21 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:21 PM INFO: detector: StateShadowing. .
+07/14/2022 09:35:21 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:21 PM INFO: detector: LocalShadowing. .
+07/14/2022 09:35:21 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:21 PM INFO: detector: BuiltinSymbolShadowing. .
+07/14/2022 09:35:21 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:21 PM INFO: detector: Timestamp. .
+07/14/2022 09:35:21 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:21 PM INFO: detector: MultipleCallsInLoop. .
+07/14/2022 09:35:21 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:21 PM INFO: detector: IncorrectStrictEquality. .
+07/14/2022 09:35:21 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:21 PM INFO: detector: IncorrectERC20InterfaceDetection. .
+07/14/2022 09:35:21 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:21 PM INFO: detector: IncorrectERC721InterfaceDetection. .
+07/14/2022 09:35:21 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:21 PM INFO: detector: UnindexedERC20EventParameters. .
+07/14/2022 09:35:21 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:21 PM INFO: detector: DeprecatedStandards. .
+07/14/2022 09:35:21 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:21 PM INFO: detector: RightToLeftOverride. .
+07/14/2022 09:35:21 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:21 PM INFO: detector: TooManyDigits. .
+07/14/2022 09:35:21 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:21 PM INFO: detector: UncheckedLowLevel. .
+07/14/2022 09:35:21 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:21 PM INFO: detector: UncheckedSend. .
+07/14/2022 09:35:21 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:21 PM INFO: detector: VoidConstructor. .
+07/14/2022 09:35:21 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:21 PM INFO: detector: TypeBasedTautology. .
+07/14/2022 09:35:21 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:21 PM INFO: detector: BooleanEquality. .
+07/14/2022 09:35:21 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:21 PM INFO: detector: BooleanConstantMisuse. .
+07/14/2022 09:35:22 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:22 PM INFO: detector: DivideBeforeMultiply. .
+07/14/2022 09:35:22 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:22 PM INFO: detector: UnprotectedUpgradeable. .
+07/14/2022 09:35:22 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:22 PM INFO: detector: NameReused. .
+07/14/2022 09:35:22 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:22 PM INFO: detector: UnimplementedFunctionDetection. .
+07/14/2022 09:35:22 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:22 PM INFO: detector: MappingDeletionDetection. .
+07/14/2022 09:35:22 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:22 PM INFO: detector: ArrayLengthAssignment. .
+07/14/2022 09:35:22 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:22 PM INFO: detector: SimilarVarsDetection. .
+07/14/2022 09:35:22 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:22 PM INFO: detector: FunctionInitializedState. .
+07/14/2022 09:35:22 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:22 PM INFO: detector: RedundantStatements. .
+07/14/2022 09:35:22 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:22 PM INFO: detector: BadPRNG. .
+07/14/2022 09:35:22 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:22 PM INFO: detector: CostlyOperationsInLoop. .
+07/14/2022 09:35:22 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:22 PM INFO: detector: AssertStateChange. .
+07/14/2022 09:35:22 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:22 PM INFO: detector: MissingInheritance. .
+07/14/2022 09:35:22 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:22 PM INFO: detector: ShiftParameterMixup. .
+07/14/2022 09:35:22 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:22 PM INFO: detector: StorageSignedIntegerArray. .
+07/14/2022 09:35:22 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:22 PM INFO: detector: UninitializedFunctionPtrsConstructor. .
+07/14/2022 09:35:22 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:22 PM INFO: detector: ABIEncoderV2Array. .
+07/14/2022 09:35:22 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:22 PM INFO: detector: ArrayByReference. .
+07/14/2022 09:35:22 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:22 PM INFO: detector: EnumConversion. .
+07/14/2022 09:35:22 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:22 PM INFO: detector: MultipleConstructorSchemes. .
+07/14/2022 09:35:22 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:22 PM INFO: detector: PublicMappingNested. .
+07/14/2022 09:35:23 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:23 PM INFO: detector: ReusedBaseConstructor. .
+07/14/2022 09:35:23 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:23 PM INFO: detector: MissingEventsAccessControl. .
+07/14/2022 09:35:23 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:23 PM INFO: detector: MissingEventsArithmetic. .
+07/14/2022 09:35:23 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:23 PM INFO: detector: ModifierDefaultDetection. .
+07/14/2022 09:35:23 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:23 PM INFO: detector: PredeclarationUsageLocal. .
+07/14/2022 09:35:23 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:23 PM INFO: detector: IncorrectUnaryExpressionDetection. .
+07/14/2022 09:35:23 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:23 PM INFO: detector: MissingZeroAddressValidation. .
+07/14/2022 09:35:23 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:23 PM INFO: detector: DeadCode. .
+07/14/2022 09:35:23 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:23 PM INFO: detector: WriteAfterWrite. .
+07/14/2022 09:35:23 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:23 PM INFO: detector: MsgValueInLoop. .
+07/14/2022 09:35:23 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:23 PM INFO: detector: DelegatecallInLoop. .
+07/14/2022 09:35:23 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814719060.sol
+
+
+07/14/2022 09:35:23 PM INFO: Analysis Completed. .
+07/14/2022 09:35:23 PM INFO: --------------------------------------------------------------------------------
+07/14/2022 09:36:22 PM INFO: detector: Backdoor. .
+07/14/2022 09:36:22 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:22 PM INFO: detector: UninitializedStateVarsDetection. .
+07/14/2022 09:36:22 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:22 PM INFO: detector: UninitializedStorageVars. .
+07/14/2022 09:36:22 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:22 PM INFO: detector: UninitializedLocalVars. .
+07/14/2022 09:36:22 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:22 PM INFO: detector: ConstantPragma. .
+07/14/2022 09:36:22 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:22 PM INFO: detector: IncorrectSolc. .
+07/14/2022 09:36:22 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:22 PM INFO: [92m
+Pragma version^0.8.0 (../bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol#2) allows old versions
+Pragma version^0.8.0 (../bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol#9) allows old versions
+solc-0.8.15 is not recommended for deployment
+Reference: https://github.com/crytic/slither/wiki/Detector-Documentation#incorrect-versions-of-solidity[0m
+07/14/2022 09:36:22 PM INFO: detector: LockedEther. .
+07/14/2022 09:36:22 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:22 PM INFO: detector: ArbitrarySend. .
+07/14/2022 09:36:22 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:22 PM INFO: detector: Suicidal. .
+07/14/2022 09:36:22 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:22 PM INFO: detector: ReentrancyBenign. .
+07/14/2022 09:36:22 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:22 PM INFO: detector: ReentrancyReadBeforeWritten. .
+07/14/2022 09:36:22 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:22 PM INFO: detector: ReentrancyEth. .
+07/14/2022 09:36:22 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:22 PM INFO: detector: ReentrancyNoGas. .
+07/14/2022 09:36:22 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:22 PM INFO: detector: ReentrancyEvent. .
+07/14/2022 09:36:22 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:22 PM INFO: detector: UnusedStateVars. .
+07/14/2022 09:36:23 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:23 PM INFO: detector: ConstCandidateStateVars. .
+07/14/2022 09:36:23 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:23 PM INFO: detector: TxOrigin. .
+07/14/2022 09:36:23 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:23 PM INFO: detector: Assembly. .
+07/14/2022 09:36:23 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:23 PM INFO: detector: LowLevelCalls. .
+07/14/2022 09:36:23 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:23 PM INFO: detector: UnusedReturnValues. .
+07/14/2022 09:36:23 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:23 PM INFO: detector: UncheckedTransfer. .
+07/14/2022 09:36:23 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:23 PM INFO: detector: NamingConvention. .
+07/14/2022 09:36:23 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:23 PM INFO: detector: ExternalFunction. .
+07/14/2022 09:36:23 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:23 PM INFO: detector: ControlledDelegateCall. .
+07/14/2022 09:36:23 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:23 PM INFO: detector: ConstantFunctionsAsm. .
+07/14/2022 09:36:23 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:23 PM INFO: detector: ConstantFunctionsState. .
+07/14/2022 09:36:23 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:23 PM INFO: detector: ShadowingAbstractDetection. .
+07/14/2022 09:36:23 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:23 PM INFO: detector: StateShadowing. .
+07/14/2022 09:36:23 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:23 PM INFO: detector: LocalShadowing. .
+07/14/2022 09:36:23 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:23 PM INFO: detector: BuiltinSymbolShadowing. .
+07/14/2022 09:36:23 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:23 PM INFO: detector: Timestamp. .
+07/14/2022 09:36:23 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:23 PM INFO: detector: MultipleCallsInLoop. .
+07/14/2022 09:36:23 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:23 PM INFO: detector: IncorrectStrictEquality. .
+07/14/2022 09:36:23 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:23 PM INFO: detector: IncorrectERC20InterfaceDetection. .
+07/14/2022 09:36:23 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:23 PM INFO: detector: IncorrectERC721InterfaceDetection. .
+07/14/2022 09:36:23 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:23 PM INFO: detector: UnindexedERC20EventParameters. .
+07/14/2022 09:36:23 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:23 PM INFO: detector: DeprecatedStandards. .
+07/14/2022 09:36:24 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:24 PM INFO: detector: RightToLeftOverride. .
+07/14/2022 09:36:24 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:24 PM INFO: detector: TooManyDigits. .
+07/14/2022 09:36:24 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:24 PM INFO: detector: UncheckedLowLevel. .
+07/14/2022 09:36:24 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:24 PM INFO: detector: UncheckedSend. .
+07/14/2022 09:36:24 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:24 PM INFO: detector: VoidConstructor. .
+07/14/2022 09:36:24 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:24 PM INFO: detector: TypeBasedTautology. .
+07/14/2022 09:36:24 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:24 PM INFO: detector: BooleanEquality. .
+07/14/2022 09:36:24 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:24 PM INFO: detector: BooleanConstantMisuse. .
+07/14/2022 09:36:24 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:24 PM INFO: detector: DivideBeforeMultiply. .
+07/14/2022 09:36:24 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:24 PM INFO: detector: UnprotectedUpgradeable. .
+07/14/2022 09:36:24 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:24 PM INFO: detector: NameReused. .
+07/14/2022 09:36:24 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:24 PM INFO: detector: UnimplementedFunctionDetection. .
+07/14/2022 09:36:24 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:24 PM INFO: detector: MappingDeletionDetection. .
+07/14/2022 09:36:24 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:24 PM INFO: detector: ArrayLengthAssignment. .
+07/14/2022 09:36:24 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:24 PM INFO: detector: SimilarVarsDetection. .
+07/14/2022 09:36:24 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:24 PM INFO: detector: FunctionInitializedState. .
+07/14/2022 09:36:24 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:24 PM INFO: detector: RedundantStatements. .
+07/14/2022 09:36:24 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:24 PM INFO: detector: BadPRNG. .
+07/14/2022 09:36:24 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:24 PM INFO: detector: CostlyOperationsInLoop. .
+07/14/2022 09:36:24 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:24 PM INFO: detector: AssertStateChange. .
+07/14/2022 09:36:24 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:24 PM INFO: detector: MissingInheritance. .
+07/14/2022 09:36:25 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:25 PM INFO: detector: ShiftParameterMixup. .
+07/14/2022 09:36:25 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:25 PM INFO: detector: StorageSignedIntegerArray. .
+07/14/2022 09:36:25 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:25 PM INFO: detector: UninitializedFunctionPtrsConstructor. .
+07/14/2022 09:36:25 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:25 PM INFO: detector: ABIEncoderV2Array. .
+07/14/2022 09:36:25 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:25 PM INFO: detector: ArrayByReference. .
+07/14/2022 09:36:25 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:25 PM INFO: detector: EnumConversion. .
+07/14/2022 09:36:25 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:25 PM INFO: detector: MultipleConstructorSchemes. .
+07/14/2022 09:36:25 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:25 PM INFO: detector: PublicMappingNested. .
+07/14/2022 09:36:25 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:25 PM INFO: detector: ReusedBaseConstructor. .
+07/14/2022 09:36:25 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:25 PM INFO: detector: MissingEventsAccessControl. .
+07/14/2022 09:36:25 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:25 PM INFO: detector: MissingEventsArithmetic. .
+07/14/2022 09:36:25 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:25 PM INFO: detector: ModifierDefaultDetection. .
+07/14/2022 09:36:25 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:25 PM INFO: detector: PredeclarationUsageLocal. .
+07/14/2022 09:36:25 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:25 PM INFO: detector: IncorrectUnaryExpressionDetection. .
+07/14/2022 09:36:25 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:25 PM INFO: detector: MissingZeroAddressValidation. .
+07/14/2022 09:36:25 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:25 PM INFO: detector: DeadCode. .
+07/14/2022 09:36:25 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:25 PM INFO: detector: WriteAfterWrite. .
+07/14/2022 09:36:25 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:25 PM INFO: detector: MsgValueInLoop. .
+07/14/2022 09:36:25 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:25 PM INFO: detector: DelegatecallInLoop. .
+07/14/2022 09:36:25 PM INFO: Compilation warnings/errors on /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol:
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> /Users/bhargj/worksapce/SG-Hackverse/bwd_send/bwd/bwd/solidity_files/watchFile-1657814781888.sol
+
+
+07/14/2022 09:36:25 PM INFO: Analysis Completed. .
+07/14/2022 09:36:25 PM INFO: --------------------------------------------------------------------------------
