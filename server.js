@@ -1,4 +1,5 @@
 const express = require("express");
+const { exec } = require("child_process");
 const path = require("path");
 const multer = require("multer");
 const app = express();
@@ -27,22 +28,6 @@ const maxSize = 20 * 1000 * 1000;
 var upload = multer({
   storage: storage,
   limits: { fileSize: maxSize },
-  fileFilter: function (req, file, cb) {
-    // Set the filetypes, it is optional
-    var filetypes = /sol/;
-    var mimetype = filetypes.test(file.mimetype);
-    console.log("mimetype:" + mimetype);
-    var extname = filetypes.test(path.extname(file.originalname).toLowerCase());
-    if (mimetype && extname) {
-      return cb(null, true);
-    }
-
-    cb(
-      "Error: File upload only supports the " +
-        "following filetypes - " +
-        filetypes
-    );
-  },
 
   // watchFile is the name of file attribute
 }).single("watchFile");
@@ -62,7 +47,28 @@ app.post("/upload", function (req, res, next) {
       res.send(err);
     } else {
       // SUCCESS, image successfully uploaded
-      res.send("Success, Image uploaded!");
+
+      exec(
+        "python3 zion_scan.py --contract solidity_files/Greeting.sol",
+        (error, stdout, stderr) => {
+          if (error) {
+            console.log(`error: ${error.message}`);
+            res.send(
+              "File Uploaded successfully ; command execution failed: " +
+                error.message
+            );
+            return;
+          }
+          if (stderr) {
+            res.send(
+              "File Uploaded successfully ; command execution failed: " + stderr
+            );
+          }
+          res.send(
+            "File Uploaded successfully ; command execution success: " + stdout
+          );
+        }
+      );
     }
   });
 });
